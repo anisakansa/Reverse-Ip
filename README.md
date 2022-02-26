@@ -6,5 +6,5 @@ apt install bash
 ```
 ### Usage Commant
 ```
-bash ipdomen.sh listip.txt
+bash IpDomen.sh listip.txt
 ```
